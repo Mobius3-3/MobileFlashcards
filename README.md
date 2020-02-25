@@ -1,4 +1,26 @@
-### Mobile Flashcards
-- Create your own colorful decks of flash cards to quiz yourself with, and be reminded to study every day.
-- The application requires only yarn install and yarn start to install and launch. npm can be used in place of yarn.
-- This project has been tested on the following platforms: [web, android, ios]
+# Mobile Flashcards
+
+This is my submition for Udacity's React Nanodegree **Mobile Flashcardds**.
+
+### Installation & Running
+
+Copy clone this repo
+
+```
+git clone https://github.com/muradmm83/mobile-flashcards-reactnd.git
+```
+CD to the repo local directory
+```
+cd mobile-flashcards-reactnd
+```
+Install required packages
+```
+npm i
+```
+Run the app
+```
+npm start
+```
+
+### Platform
+This RN app is using **Android** platform.
